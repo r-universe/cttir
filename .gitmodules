@@ -1,7 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/cttir/cttir.r-universe.dev
 	branch = HEAD
+[submodule "cuvis.r"]
+	path = cuvis.r
+	url = https://github.com/CTTIR/cuvis.r
+[submodule "hyperspectR"]
+	path = hyperspectR
+	url = https://github.com/CTTIR/hyperspectR
 [submodule "qviewparsR"]
 	path = qviewparsR
-	url = https://github.com/cttir/qviewparsr
+	url = https://github.com/CTTIR/qviewparsR
+[submodule "tivis.r"]
+	path = tivis.r
+	url = https://github.com/CTTIR/tivis.r
