@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/cttir/cttir.r-universe.dev
 	branch = HEAD
+[submodule "cellspecR"]
+	path = cellspecR
+	url = https://github.com/CTTIR/cellspecR
 [submodule "cuvis.r"]
 	path = cuvis.r
 	url = https://github.com/CTTIR/cuvis.r
@@ -11,6 +14,9 @@
 [submodule "qviewparsR"]
 	path = qviewparsR
 	url = https://github.com/CTTIR/qviewparsR
+[submodule "songR"]
+	path = songR
+	url = https://github.com/CTTIR/songR
 [submodule "tivis.r"]
 	path = tivis.r
 	url = https://github.com/CTTIR/tivis.r
