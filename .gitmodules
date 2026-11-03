@@ -2,21 +2,122 @@
 	path = .registry
 	url = https://github.com/cttir/cttir.r-universe.dev
 	branch = HEAD
+[submodule "bambamR"]
+	path = bambamR
+	url = https://github.com/CTTIR/bambamR
+[submodule "bloodspottR"]
+	path = bloodspottR
+	url = https://github.com/CTTIR/bloodspottR
+[submodule "brainwritR"]
+	path = brainwritR
+	url = https://github.com/CTTIR/brainwritR
+[submodule "cellreportR"]
+	path = cellreportR
+	url = https://github.com/CTTIR/cellreportR
 [submodule "cellspecR"]
 	path = cellspecR
 	url = https://github.com/CTTIR/cellspecR
+[submodule "cttiR"]
+	path = cttiR
+	url = https://github.com/CTTIR/cttiR
 [submodule "cuvis.r"]
 	path = cuvis.r
 	url = https://github.com/CTTIR/cuvis.r
+[submodule "delphyr"]
+	path = delphyr
+	url = https://github.com/CTTIR/delphyR
+	subdir = packages/delphyr
+[submodule "delphyrApp"]
+	path = delphyrApp
+	url = https://github.com/CTTIR/delphyR
+	subdir = packages/delphyrApp
+[submodule "dynasimR"]
+	path = dynasimR
+	url = https://github.com/CTTIR/dynasimR
+[submodule "gatekeepR"]
+	path = gatekeepR
+	url = https://github.com/CTTIR/gatekeepR
+[submodule "harbouR"]
+	path = harbouR
+	url = https://github.com/CTTIR/harbouR
+[submodule "hexmakR"]
+	path = hexmakR
+	url = https://github.com/CTTIR/hexmakR
+[submodule "hyperannotatR"]
+	path = hyperannotatR
+	url = https://github.com/CTTIR/hyperannotatR
+[submodule "hyperloom"]
+	path = hyperloom
+	url = https://github.com/CTTIR/hyperloom
+[submodule "hypermodR"]
+	path = hypermodR
+	url = https://github.com/CTTIR/hypermodR
 [submodule "hyperspectR"]
 	path = hyperspectR
 	url = https://github.com/CTTIR/hyperspectR
+[submodule "hyperspectaculR"]
+	path = hyperspectaculR
+	url = https://github.com/CTTIR/hyperspectaculR
+[submodule "inferguidR"]
+	path = inferguidR
+	url = https://github.com/CTTIR/inferguidR
+[submodule "libscanR"]
+	path = libscanR
+	url = https://github.com/CTTIR/libscanR
+[submodule "molpathR"]
+	path = molpathR
+	url = https://github.com/CTTIR/molpathR
+[submodule "mssrscopR"]
+	path = mssrscopR
+	url = https://github.com/CTTIR/mssrscopR
+[submodule "phenoloom"]
+	path = phenoloom
+	url = https://github.com/CTTIR/phenoloom
+[submodule "phenoscapR"]
+	path = phenoscapR
+	url = https://github.com/CTTIR/phenoscapR
+[submodule "pressR"]
+	path = pressR
+	url = https://github.com/CTTIR/pressR
+[submodule "qupflowR"]
+	path = qupflowR
+	url = https://github.com/CTTIR/qupflowR
 [submodule "qviewparsR"]
 	path = qviewparsR
 	url = https://github.com/CTTIR/qviewparsR
+[submodule "reflowR"]
+	path = reflowR
+	url = https://github.com/CTTIR/reflowR
+[submodule "researchR"]
+	path = researchR
+	url = https://github.com/CTTIR/researchR
+[submodule "sandtablR"]
+	path = sandtablR
+	url = https://github.com/CTTIR/sandtablR
+[submodule "scimagR"]
+	path = scimagR
+	url = https://github.com/CTTIR/scimagR
+[submodule "scimapR"]
+	path = scimapR
+	url = https://github.com/CTTIR/scimapR
+[submodule "segmantR"]
+	path = segmantR
+	url = https://github.com/CTTIR/segmantR
+[submodule "shieldR"]
+	path = shieldR
+	url = https://github.com/CTTIR/shieldR
 [submodule "songR"]
 	path = songR
 	url = https://github.com/CTTIR/songR
+[submodule "sorenR"]
+	path = sorenR
+	url = https://github.com/CTTIR/sorenR
+[submodule "themakR"]
+	path = themakR
+	url = https://github.com/CTTIR/themakR
 [submodule "tivis.r"]
 	path = tivis.r
 	url = https://github.com/CTTIR/tivis.r
+[submodule "zhncommandR"]
+	path = zhncommandR
+	url = https://github.com/CTTIR/zhncommandR
