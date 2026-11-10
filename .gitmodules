@@ -100,9 +100,6 @@
 [submodule "sandtablR"]
 	path = sandtablR
 	url = https://github.com/CTTIR/sandtablR
-[submodule "scientometricsInR"]
-	path = scientometricsInR
-	url = https://github.com/CTTIR/scientometrics-in-r
 [submodule "scimagR"]
 	path = scimagR
 	url = https://github.com/CTTIR/scimagR
