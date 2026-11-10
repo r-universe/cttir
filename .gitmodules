@@ -118,6 +118,3 @@
 [submodule "tivis.r"]
 	path = tivis.r
 	url = https://github.com/CTTIR/tivis.r
-[submodule "zhncommandR"]
-	path = zhncommandR
-	url = https://github.com/CTTIR/zhncommandR
