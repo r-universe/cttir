@@ -58,6 +58,12 @@
 [submodule "hyperspectaculR"]
 	path = hyperspectaculR
 	url = https://github.com/CTTIR/hyperspectaculR
+[submodule "infercalcR"]
+	path = infercalcR
+	url = https://github.com/CTTIR/infercalcR
+[submodule "infereportR"]
+	path = infereportR
+	url = https://github.com/CTTIR/infereportR
 [submodule "inferguidR"]
 	path = inferguidR
 	url = https://github.com/CTTIR/inferguidR
@@ -94,6 +100,9 @@
 [submodule "sandtablR"]
 	path = sandtablR
 	url = https://github.com/CTTIR/sandtablR
+[submodule "scientometricsInR"]
+	path = scientometricsInR
+	url = https://github.com/CTTIR/scientometrics-in-r
 [submodule "scimagR"]
 	path = scimagR
 	url = https://github.com/CTTIR/scimagR
